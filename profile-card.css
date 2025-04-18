@@ -304,3 +304,99 @@ body {
         gap: 10px;
     }
 }
+
+@media (max-width: 400px) {
+    .topmenu {
+        height: 70px;
+        padding: 0 8px;
+    }
+
+    .username {
+        font-size: 25px;
+    }
+
+    .username h3 {
+        font-size: 18px;
+    }
+
+    .lock img, .downarrow img {
+        height: 16px;
+    }
+
+    .addicon, .burger {
+        height: 28px;
+    }
+
+    .profile {
+        padding: 8px;
+        gap: 8px;
+    }
+
+    .image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .display-name p {
+        font-size: 12px;
+    }
+
+    .align {
+        gap: 40px;
+    }
+
+    .align h5 {
+        font-size: 14px;
+    }
+
+    .align p {
+        font-size: 10px;
+    }
+
+    .bio {
+        font-size: 14px;
+    }
+
+    .settings {
+        padding: 8px;
+        gap: 8px;
+    }
+
+    .editprofile, .shareprofile {
+        width: 45%;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    .addfriend {
+        width: 30px;
+        height: 30px;
+    }
+
+    .highlight {
+        gap: 12px;
+        padding: 8px;
+    }
+
+    .hg1, .hg2, .hg3, .hg4, .hg5, .hg6, .hg7, .hg8 {
+        width: 55px;
+        height: 55px;
+    }
+
+    .prt {
+        height: 45px;
+        padding: 8px 0;
+    }
+
+    .grid, .reel, .tag {
+        height: 25px;
+    }
+
+    .bottom {
+        height: 45px;
+    }
+
+    .bottom img, .user img {
+        height: 22px;
+    }
+}
